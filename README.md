@@ -18,7 +18,7 @@
 
 كل الإصدارات: [صفحة الإصدارات](https://github.com/lord7oda/cash-tech-downloads/releases)
 
-> البرنامج محتاج **مفتاح ترخيص** للتفعيل. للحصول على مفتاح أو عرض تجريبي تواصل معانا (تحت).
+> البرنامج محتاج **مفتاح ترخيص** للتفعيل. للحصول على مفتاح أو عرض تجريبي [كلّمنا على واتساب](https://wa.me/201127532619?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C%20%D8%B9%D8%A7%D9%8A%D8%B2%20%D8%A3%D8%B9%D8%B1%D9%81%20%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%20%D8%B9%D9%86%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%20Cash%20Tech).
 
 ## التثبيت
 
@@ -46,7 +46,7 @@
 
 ## التواصل
 
-**Tech Trip · رحلة تقنية** — هاتف / واتساب: +20 1127532619 — [tech-trip-ar.blogspot.com](https://tech-trip-ar.blogspot.com)
+**Tech Trip · رحلة تقنية** — [💬 واتساب: 01127532619](https://wa.me/201127532619?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C%20%D8%B9%D8%A7%D9%8A%D8%B2%20%D8%A3%D8%B9%D8%B1%D9%81%20%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84%20%D8%B9%D9%86%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%20Cash%20Tech) — [tech-trip-ar.blogspot.com](https://tech-trip-ar.blogspot.com)
 
 [سياسة الخصوصية](https://tech-trip-ar.blogspot.com/p/cash-tech-privacy.html)
 
